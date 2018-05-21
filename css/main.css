@@ -1,0 +1,79 @@
+/*paleta de colores
+yellow: #FDFDB3;
+purple: #BCB9DB;
+pink: #EEC2DD;
+blue: #05B2C2 ;
+aqua: #CFE5D8;
+green: #a4d5a6;
+pink(2): #c83f71;
+*/
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.contacto {
+  height: 10vh;
+  display: block;
+  margin: auto;
+  margin-top: 
+
+}
+
+.change:hover {
+  background-color: #a4d5a6;
+}
+
+.nav-wrapper { /*da estilo a la barra superior*/
+  background-color: #05B2C2;
+}
+
+.brand-logo { /*da estilo a la barra superior*/
+  margin-left: 5vh;
+}
+
+.logo-simple{
+  height: 9vh;
+  margin-right: 3vh;
+}
+
+.ajuste-navbar{
+  display: inline-block;
+  margin: 0px;
+}
+
+.iconos{
+  height: 5vh;
+}
+
+.rojo {
+  background-color: red;
+
+}
+
+.verde {
+  background-color: green;
+}
+
+.planeta {
+  height: 90vh;
+}
+
+.blue {
+  background-color: #05B2C2;
+  color: white;
+}
+
+.bold {
+  font-weight: bolder;
+  font-size: 5vh;
+}
+
+.blanco-texto {
+  color: white;
+}
+
+
+
+#aboutme {
+  font-size: 3vh;
+}
